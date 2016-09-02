@@ -1,0 +1,20 @@
+/****
+BITSO PROBLEM
+*****/
+Program will ask for text file path in the standar input and will print
+the result in standar output. If the file is not found will ask again until
+file is found or you exit the program. 
+
+#System requirements
+(1) Have a jre 1.8
+(2) Have the JAVA_PATH in the system enviroment
+
+#Program language
+Java 1.8
+
+#Execution instructions:
+(1) Open terminal
+(2) go to the path were you download the .jar file
+(3) Execute java -jar <JAR NAME>
+(4) You will be ask for the txt file path (C:\Users\joseortiz\Desktop\Test001.txt)
+(5) Result
